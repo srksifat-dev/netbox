@@ -66,7 +66,7 @@ class _SearchScreenState extends State<SearchScreen> {
                     ),
                   ),
                   style: const TextStyle(
-                    color: Colors.grey,
+                    color: Colors.white,
                   ),
                 ),
               ),
